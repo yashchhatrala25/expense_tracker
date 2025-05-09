@@ -11,9 +11,7 @@ const Login = () => {
   const navigate = useNavigate();
 
   // Handel Login Form Submit
-  const handleLogin = async (e) => {
-
-  }
+  const handleLogin = async (e) => {}
 
   return (
     <AuthLayout>
